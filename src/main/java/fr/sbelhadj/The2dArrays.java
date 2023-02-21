@@ -1,9 +1,8 @@
 package fr.sbelhadj;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public interface The2dArrays {
+public class The2dArrays {
     public static void main(String[] args) {
         char[][] board = new char[3][3];
 
